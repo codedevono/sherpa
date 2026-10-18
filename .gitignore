@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+# generated at the repo root when running the skill, not the reference docs
+/profile.json
+/setup-spec.md
